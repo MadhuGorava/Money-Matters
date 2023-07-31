@@ -1,0 +1,102 @@
+.transactions6 {
+  position: relative;
+  font-weight: 600;
+}
+.transactions-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.all-transactions5 {
+  position: relative;
+  font-weight: 500;
+}
+.frame-child220 {
+  position: relative;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--primary-3);
+  width: 139px;
+  height: 3px;
+}
+.all-transactions-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  text-align: left;
+  color: var(--primary-3);
+}
+.debit8,
+.frame-child221 {
+  position: relative;
+  width: 57px;
+}
+.debit8 {
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child221 {
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--primary-3);
+  height: 3px;
+  display: none;
+}
+.debit-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.credit7,
+.frame-child222 {
+  position: relative;
+  width: 63px;
+}
+.credit7 {
+  flex: 1;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child222 {
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--primary-3);
+  height: 3px;
+  display: none;
+}
+.credit-parent1 {
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.frame-parent24,
+.frame-parent25 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-steelblue-100);
+}
+.frame-parent24 {
+  position: absolute;
+  top: 0;
+  left: 250px;
+  background-color: var(--color-white);
+  width: 1190px;
+  flex-direction: column;
+  padding: var(--padding-5xl) var(--padding-21xl) 0;
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--text-sm-semibold);
+}

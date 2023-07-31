@@ -1,0 +1,141 @@
+.iconoutlineclose {
+  position: absolute;
+  top: 24px;
+  left: 418px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.add-transaction3 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.button {
+  position: absolute;
+  right: 24px;
+  bottom: 32px;
+  border-radius: var(--br-5xs);
+  background-color: var(--primary-3);
+  width: 418px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--text-sm-semibold-size);
+  color: var(--color-white);
+}
+.update-transaction {
+  position: absolute;
+  top: 32px;
+  left: 24px;
+  font-size: var(--font-size-xl);
+  line-height: 28px;
+  color: var(--color-darkslateblue-200);
+}
+.you-can-update {
+  position: absolute;
+  top: 68px;
+  left: 24px;
+  font-size: var(--text-sm-semibold-size);
+  line-height: 20px;
+  display: inline-block;
+  width: 289px;
+}
+.frame-child215,
+.transaction-type {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame-child215 {
+  top: 30px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 418px;
+  height: 50px;
+}
+.debit7 {
+  position: absolute;
+  top: 46px;
+  left: 20px;
+  font-size: var(--button-2-medium-15p-size);
+  color: var(--color-steelblue-200);
+}
+.vector-icon {
+  position: absolute;
+  top: 51.47px;
+  left: 380.47px;
+  width: 13.06px;
+  height: 7.59px;
+}
+.transaction-type-parent {
+  position: absolute;
+  top: 216px;
+  left: 24px;
+  width: 418px;
+  height: 80px;
+}
+.transaction-name3 {
+  position: relative;
+}
+.spotify-subscription11 {
+  position: absolute;
+  top: 16px;
+  left: 20px;
+}
+.spotify-subscription-wrapper {
+  position: relative;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 418px;
+  height: 50px;
+  font-size: var(--button-2-medium-15p-size);
+  color: var(--color-steelblue-200);
+}
+.amount-parent,
+.date-parent,
+.transaction-name-container {
+  position: absolute;
+  top: 112px;
+  left: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.amount-parent,
+.date-parent {
+  top: 424px;
+}
+.date-parent {
+  top: 528px;
+}
+.category-parent {
+  position: absolute;
+  top: 320px;
+  left: 24px;
+  width: 418px;
+  height: 80px;
+}
+.iconoutlineclose-parent {
+  position: absolute;
+  top: calc(50% - 350px);
+  left: calc(50% - 233px);
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  width: 466px;
+  height: 700px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-steelblue-300);
+  font-family: var(--text-sm-semibold);
+}

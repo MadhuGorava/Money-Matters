@@ -1,0 +1,222 @@
+.admin-all-transactions-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-ghostwhite);
+  width: 250px;
+  height: 1024px;
+  display: none;
+}
+.user-name {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 164px;
+}
+.amount4,
+.category,
+.date4,
+.transaction-name {
+  position: absolute;
+  top: 0;
+  left: 755px;
+  font-weight: 500;
+}
+.amount4,
+.category,
+.transaction-name {
+  left: 587px;
+}
+.amount4,
+.transaction-name {
+  left: 334px;
+}
+.amount4 {
+  left: 986px;
+}
+.user-name-parent {
+  position: relative;
+  width: 1047px;
+  height: 19px;
+  color: var(--color-darkslateblue-100);
+}
+.frame-child117 {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 1050px;
+  height: 1px;
+}
+.frame-child118 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 30px;
+}
+.spotify-subscription5 {
+  position: absolute;
+  top: 6px;
+  left: 334px;
+  display: inline-block;
+  width: 174px;
+}
+.div61,
+.jan-1230-am5,
+.shopping5 {
+  position: absolute;
+  top: 6px;
+  left: 588px;
+}
+.div61,
+.jan-1230-am5 {
+  left: 756px;
+}
+.div61 {
+  left: 987px;
+  font-weight: 500;
+  color: var(--color-indianred);
+}
+.ellipse-icon {
+  position: relative;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.arlene-mccoy {
+  position: relative;
+  display: inline-block;
+  width: 153px;
+  flex-shrink: 0;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 0;
+  left: 54px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.group-parent57 {
+  position: relative;
+  width: 1050px;
+  height: 30px;
+}
+.div62 {
+  position: absolute;
+  top: 6px;
+  left: 999px;
+  font-weight: 500;
+  color: var(--color-aquamarine);
+}
+.ralph-edwards {
+  position: relative;
+  display: inline-block;
+  width: 163px;
+  flex-shrink: 0;
+}
+.div63 {
+  position: absolute;
+  top: 6px;
+  left: 1004px;
+  font-weight: 500;
+  color: var(--color-indianred);
+}
+.darlene-robertson {
+  position: relative;
+  display: inline-block;
+  width: 205px;
+  flex-shrink: 0;
+}
+.div64 {
+  position: absolute;
+  top: 6px;
+  left: 994px;
+  font-weight: 500;
+  color: var(--color-indianred);
+}
+.kristin-watson {
+  position: relative;
+  display: inline-block;
+  width: 157px;
+  flex-shrink: 0;
+}
+.div65 {
+  position: absolute;
+  top: 6px;
+  left: 998px;
+  font-weight: 500;
+  color: var(--color-aquamarine);
+}
+.jacob-jones,
+.robert-fox {
+  position: relative;
+  display: inline-block;
+  width: 120px;
+  flex-shrink: 0;
+}
+.jacob-jones {
+  width: 139px;
+}
+.div68 {
+  position: absolute;
+  top: 6px;
+  left: 998px;
+  font-weight: 500;
+  color: var(--color-indianred);
+}
+.albert-flores {
+  position: relative;
+  display: inline-block;
+  width: 140px;
+  flex-shrink: 0;
+}
+.brooklyn-simmons,
+.esther-howard,
+.kathryn-murphy,
+.theresa-webb {
+  position: relative;
+  display: inline-block;
+  width: 162px;
+  flex-shrink: 0;
+}
+.brooklyn-simmons,
+.kathryn-murphy,
+.theresa-webb {
+  width: 159px;
+}
+.brooklyn-simmons,
+.kathryn-murphy {
+  width: 176px;
+}
+.brooklyn-simmons {
+  width: 202px;
+}
+.frame-parent8 {
+  position: absolute;
+  top: 128px;
+  left: 290px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-base) var(--padding-11xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.admin-all-transactions {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-steelblue-300);
+  font-family: var(--text-sm-semibold);
+}

@@ -1,0 +1,91 @@
+.card {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  box-shadow: var(--shadow-lg);
+}
+.frame-child218 {
+  position: absolute;
+  top: 32px;
+  left: 24px;
+  width: 64px;
+  height: 64px;
+}
+.iconoutlineclose1 {
+  position: absolute;
+  top: 24px;
+  left: 543px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.yes-logout {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.button1 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-crimson);
+  padding: var(--padding-5xs) var(--padding-base);
+  align-items: center;
+  justify-content: center;
+}
+.button-parent,
+.button1,
+.button2 {
+  display: flex;
+  flex-direction: row;
+}
+.button2 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray);
+  padding: var(--padding-5xs) var(--padding-base);
+  align-items: center;
+  justify-content: center;
+  color: var(--color-darkslateblue-200);
+}
+.button-parent {
+  position: absolute;
+  top: 120px;
+  left: 112px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  text-align: center;
+}
+.are-you-sure {
+  position: absolute;
+  top: 32px;
+  left: 112px;
+  font-size: var(--font-size-xl);
+  line-height: 28px;
+  color: var(--color-darkslateblue-200);
+}
+.lorem-ipsum-dolor {
+  position: absolute;
+  top: 68px;
+  left: 112px;
+  line-height: 20px;
+  color: var(--color-steelblue-300);
+  display: inline-block;
+  width: 468px;
+}
+.card-parent {
+  position: absolute;
+  top: calc(50% - 94px);
+  left: calc(50% - 295px);
+  width: 591px;
+  height: 188px;
+  text-align: left;
+  font-size: var(--text-sm-semibold-size);
+  color: var(--color-white);
+  font-family: var(--text-sm-semibold);
+}

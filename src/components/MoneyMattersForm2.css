@@ -1,0 +1,132 @@
+.navbar-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border-right: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 250px;
+  height: 1024px;
+}
+.home-2-icon {
+  position: relative;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.dashboard1 {
+  position: relative;
+  font-weight: 500;
+}
+.home-2-parent,
+.transfer-1-parent {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.home-2-parent {
+  top: 0;
+  left: 44px;
+}
+.transfer-1-parent {
+  top: 62px;
+  right: 0;
+}
+.frame-child175,
+.user-3-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame-child175 {
+  border-radius: 0 var(--br-3xs) var(--br-3xs) 0;
+  background-color: var(--primary-3);
+  width: 6px;
+  height: 60px;
+}
+.user-3-1 {
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.profile2 {
+  position: absolute;
+  top: 1.5px;
+  left: 51px;
+  font-weight: 500;
+}
+.rectangle-group,
+.user-3-1-parent {
+  position: absolute;
+  top: 17px;
+  left: 44px;
+  width: 107px;
+  height: 25px;
+}
+.rectangle-group {
+  top: 0;
+  left: 0;
+  width: 151px;
+  height: 60px;
+}
+.frame-parent13,
+.frame-wrapper8 {
+  position: absolute;
+  left: 0;
+  width: 207px;
+}
+.frame-wrapper8 {
+  top: 108px;
+  height: 60px;
+  color: var(--primary-3);
+}
+.frame-parent13 {
+  top: 132px;
+  height: 171px;
+}
+.group-icon6 {
+  position: relative;
+  width: 44px;
+  height: 38px;
+}
+.span1 {
+  color: var(--color-darkslateblue-100);
+}
+.matters1 {
+  color: var(--color-darkcyan);
+}
+.money-matters1 {
+  position: relative;
+  font-weight: 800;
+}
+.group-parent86 {
+  position: absolute;
+  top: 31px;
+  left: 14px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+  font-size: 19.66px;
+  color: var(--color-orange-200);
+  font-family: var(--font-poppins);
+}
+.navbar1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(#fff, #fff), #fff;
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 250px;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--heading-three-medium-18p-size);
+  color: var(--color-steelblue-300);
+  font-family: var(--text-sm-semibold);
+}

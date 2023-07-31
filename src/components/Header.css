@@ -1,0 +1,45 @@
+.profile1 {
+  position: relative;
+  font-weight: 600;
+}
+.plus-icon1 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.add-transaction1 {
+  position: relative;
+  font-weight: 500;
+}
+.plus-group,
+.profile-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.plus-group {
+  border-radius: var(--br-xs);
+  background-color: var(--primary-3);
+  padding: var(--padding-5xs) var(--padding-xs);
+  justify-content: center;
+  gap: var(--gap-9xs);
+  text-align: center;
+  font-size: var(--button-2-medium-15p-size);
+  color: var(--color-white);
+}
+.profile-group {
+  position: absolute;
+  top: 0;
+  left: 250px;
+  background-color: var(--color-white);
+  width: 1190px;
+  padding: var(--padding-5xl) var(--padding-21xl);
+  box-sizing: border-box;
+  justify-content: space-between;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--text-sm-semibold);
+}

@@ -1,0 +1,49 @@
+.navbar-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border-right: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 250px;
+  height: 1024px;
+}
+.group-icon11 {
+  position: relative;
+  width: 44px;
+  height: 38px;
+}
+.span6 {
+  color: var(--color-darkslateblue-100);
+}
+.matters6 {
+  color: var(--color-darkcyan);
+}
+.money-matters6 {
+  position: relative;
+  font-weight: 800;
+}
+.group-parent96 {
+  position: absolute;
+  top: 31px;
+  left: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.navbar6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(#fff, #fff), #fff;
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 250px;
+  height: 1024px;
+  text-align: left;
+  font-size: 19.66px;
+  color: var(--color-orange-200);
+  font-family: var(--font-poppins);
+}

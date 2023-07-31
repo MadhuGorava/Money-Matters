@@ -1,0 +1,34 @@
+.charlene-reed,
+.your-name {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.charlene-reed {
+  top: 16px;
+  left: 20px;
+}
+.charlene-reed-wrapper {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 418px;
+  height: 50px;
+  font-size: var(--button-2-medium-15p-size);
+  color: var(--color-steelblue-100);
+}
+.your-name-parent {
+  position: absolute;
+  top: 48px;
+  left: 215px;
+  width: 418px;
+  height: 80px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-steelblue-300);
+  font-family: var(--text-sm-semibold);
+}

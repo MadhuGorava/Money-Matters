@@ -1,0 +1,73 @@
+.transfer-1-icon1 {
+  position: relative;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.transactions2 {
+  position: relative;
+  font-weight: 500;
+}
+.transfer-1-group,
+.user-3-1-group {
+  position: absolute;
+  top: 80px;
+  left: 44px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.user-3-1-group {
+  top: 143px;
+}
+.frame-child198 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 var(--br-3xs) var(--br-3xs) 0;
+  background-color: var(--primary-3);
+  width: 6px;
+  height: 60px;
+}
+.home-2-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.dashboard2 {
+  position: absolute;
+  top: 1.5px;
+  left: 51px;
+  font-weight: 500;
+}
+.home-2-group {
+  position: absolute;
+  top: 18px;
+  left: 44px;
+  width: 145px;
+  height: 25px;
+}
+.frame-parent16,
+.rectangle-parent10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 189px;
+  height: 60px;
+  color: var(--primary-3);
+}
+.frame-parent16 {
+  top: 114px;
+  width: 207px;
+  height: 171px;
+  text-align: left;
+  font-size: var(--heading-three-medium-18p-size);
+  color: var(--color-steelblue-300);
+  font-family: var(--text-sm-semibold);
+}

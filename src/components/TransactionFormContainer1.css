@@ -1,0 +1,97 @@
+.transactions4 {
+  position: relative;
+  font-weight: 600;
+}
+.transactions-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-749xl);
+}
+.all-transactions2 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 139px;
+}
+.frame-child199 {
+  position: relative;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--primary-3);
+  width: 139px;
+  height: 3px;
+  display: none;
+}
+.all-transactions-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.debit5,
+.frame-child200 {
+  position: relative;
+  width: 57px;
+}
+.debit5 {
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child200 {
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--primary-3);
+  height: 3px;
+  display: none;
+}
+.credit5,
+.frame-child201 {
+  position: relative;
+  width: 63px;
+}
+.credit5 {
+  flex: 1;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child201 {
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--primary-3);
+  height: 3px;
+}
+.credit-group {
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  color: var(--primary-3);
+}
+.frame-parent18,
+.frame-parent19 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-steelblue-100);
+}
+.frame-parent18 {
+  position: absolute;
+  top: 0;
+  left: 250px;
+  background-color: var(--color-white);
+  width: 1190px;
+  flex-direction: column;
+  padding: var(--padding-5xl) var(--padding-21xl) 0;
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--text-sm-semibold);
+}

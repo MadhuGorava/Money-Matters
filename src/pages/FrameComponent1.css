@@ -1,0 +1,228 @@
+.dashboard-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-ghostwhite);
+  width: 250px;
+  height: 1024px;
+  display: none;
+}
+.dashboard-inner,
+.dashboard-item {
+  position: absolute;
+  top: 269px;
+  left: 905px;
+  width: 350px;
+  height: 1px;
+}
+.dashboard-inner {
+  top: 84px;
+  left: 250px;
+  background-color: var(--color-gainsboro-100);
+  width: 1190px;
+}
+.last-transaction {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.frame-inner {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  width: 30px;
+  height: 30px;
+}
+.spotify-subscription {
+  position: absolute;
+  top: 17px;
+  left: 58px;
+  font-weight: 500;
+  color: var(--color-steelblue-300);
+  display: inline-block;
+  width: 317px;
+}
+.shopping {
+  left: 455px;
+}
+.div,
+.jan-1230-am,
+.shopping {
+  position: absolute;
+  top: 17px;
+}
+.div {
+  left: 855px;
+  font-weight: 500;
+  color: var(--color-indianred);
+  text-align: right;
+}
+.jan-1230-am {
+  left: 623px;
+}
+.pencil-02-icon,
+.trash-01-icon {
+  position: absolute;
+  top: 17px;
+  left: 981px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.trash-01-icon {
+  left: 1021px;
+}
+.group-container,
+.group-parent {
+  position: absolute;
+  top: 12px;
+  left: 24px;
+  border-bottom: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 1061px;
+  height: 58px;
+}
+.group-container {
+  top: 78px;
+}
+.div2 {
+  position: absolute;
+  top: 17px;
+  left: 850px;
+  font-weight: 500;
+  color: var(--color-aquamarine);
+  text-align: right;
+}
+.frame-div,
+.frame-group {
+  position: absolute;
+  top: 144px;
+  left: 24px;
+  width: 1061px;
+  height: 58px;
+}
+.frame-group {
+  top: 43px;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  width: 1110px;
+  height: 210px;
+  font-size: var(--font-size-base);
+  color: var(--color-steelblue-100);
+}
+.last-transaction-parent {
+  position: absolute;
+  top: 276px;
+  left: 278px;
+  width: 1110px;
+  height: 253px;
+}
+.debit,
+.div3 {
+  position: relative;
+}
+.div3 {
+  font-weight: 600;
+}
+.debit {
+  font-size: var(--font-size-base);
+  color: var(--color-steelblue-100);
+}
+.parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+  z-index: 0;
+}
+.group-icon1 {
+  position: absolute;
+  margin: 0 !important;
+  height: 91.56%;
+  width: 34.59%;
+  top: 7.69%;
+  right: 2.9%;
+  bottom: 0.75%;
+  left: 62.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.frame-container {
+  position: absolute;
+  top: 108px;
+  left: 857px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  width: 543px;
+  height: 169px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-6xl) var(--padding-21xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-6xl);
+  color: var(--color-indianred);
+}
+.group-icon2 {
+  position: absolute;
+  margin: 0 !important;
+  height: 95.83%;
+  width: 33.6%;
+  top: 4.17%;
+  right: 1.2%;
+  bottom: 0;
+  left: 65.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.frame-parent1 {
+  position: absolute;
+  top: 101px;
+  left: 307px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  width: 519px;
+  height: 152px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-6xl) var(--padding-17xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-13xl);
+  color: var(--color-aquamarine);
+}
+.dashboard,
+.dashboard-parent {
+  position: absolute;
+  top: 0;
+  width: 1440px;
+  height: 1024px;
+}
+.dashboard {
+  left: 0;
+  background-color: var(--color-whitesmoke-100);
+  overflow: hidden;
+}
+.dashboard-parent {
+  left: -40px;
+}
+.frame-parent {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-darkslateblue-200);
+  font-family: var(--text-sm-semibold);
+}

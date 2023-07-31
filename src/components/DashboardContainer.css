@@ -1,0 +1,73 @@
+.home-2-icon3 {
+  position: relative;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.dashboard4 {
+  position: relative;
+  font-weight: 500;
+}
+.home-2-parent1,
+.user-3-1-parent1 {
+  position: absolute;
+  top: 0;
+  left: 44px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.user-3-1-parent1 {
+  top: 124px;
+}
+.frame-child219 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 var(--br-3xs) var(--br-3xs) 0;
+  background-color: var(--primary-3);
+  width: 6px;
+  height: 60px;
+}
+.transfer-1-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.all-transactions4 {
+  position: absolute;
+  top: 1.5px;
+  left: 51px;
+  font-weight: 500;
+}
+.transfer-1-parent1 {
+  position: absolute;
+  top: 17px;
+  left: 44px;
+  width: 163px;
+  height: 25px;
+}
+.frame-parent23,
+.rectangle-parent12 {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 207px;
+  height: 60px;
+  color: var(--primary-3);
+}
+.frame-parent23 {
+  top: 132px;
+  width: 232px;
+  height: 149px;
+  text-align: left;
+  font-size: var(--heading-three-medium-18p-size);
+  color: var(--color-steelblue-300);
+  font-family: var(--text-sm-semibold);
+}

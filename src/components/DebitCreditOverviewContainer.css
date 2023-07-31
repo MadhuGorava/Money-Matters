@@ -1,0 +1,374 @@
+.debit-credit {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  color: var(--color-darkslateblue-200);
+}
+.frame-child176,
+.frame-child177,
+.frame-child178,
+.frame-child179,
+.frame-child180,
+.frame-child181 {
+  position: absolute;
+  top: 122px;
+  left: 76px;
+  background-color: var(--color-whitesmoke-200);
+  width: 1008px;
+  height: 1px;
+}
+.frame-child177,
+.frame-child178,
+.frame-child179,
+.frame-child180,
+.frame-child181 {
+  top: 159px;
+}
+.frame-child178,
+.frame-child179,
+.frame-child180,
+.frame-child181 {
+  top: 196px;
+}
+.frame-child179,
+.frame-child180,
+.frame-child181 {
+  top: 233px;
+}
+.frame-child180,
+.frame-child181 {
+  top: 270px;
+}
+.frame-child181 {
+  top: 307px;
+}
+.debited {
+  color: var(--color-steelblue-100);
+}
+.debited-5420-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: var(--color-darkslateblue-200);
+}
+.frame-child182 {
+  position: absolute;
+  top: 99px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue-100);
+  width: 30px;
+  height: 135px;
+}
+.frame-child183,
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  height: 234px;
+}
+.frame-child183 {
+  left: 40px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-orange-100);
+  width: 30px;
+}
+.rectangle-parent1 {
+  left: 0;
+  width: 70px;
+}
+.frame-child184,
+.frame-child185 {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue-100);
+  width: 30px;
+  height: 106px;
+}
+.frame-child185 {
+  top: 0;
+  left: 40px;
+  background-color: var(--color-orange-100);
+  height: 186px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 48px;
+  left: 150px;
+  width: 70px;
+  height: 186px;
+}
+.frame-child186,
+.frame-child187 {
+  position: absolute;
+  top: 37px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue-100);
+  width: 30px;
+  height: 102px;
+}
+.frame-child187 {
+  top: 0;
+  left: 40px;
+  background-color: var(--color-orange-100);
+  height: 139px;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 95px;
+  left: 300px;
+  width: 70px;
+  height: 139px;
+}
+.frame-child188,
+.frame-child189 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue-100);
+  width: 30px;
+  height: 212px;
+}
+.frame-child189 {
+  top: 89px;
+  left: 40px;
+  background-color: var(--color-orange-100);
+  height: 123px;
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 22px;
+  left: 450px;
+  width: 70px;
+  height: 212px;
+}
+.frame-child190,
+.frame-child191 {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue-100);
+  width: 30px;
+  height: 150px;
+}
+.frame-child191 {
+  top: 0;
+  left: 40px;
+  background-color: var(--color-orange-100);
+  height: 214px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 20px;
+  left: 600px;
+  width: 70px;
+  height: 214px;
+}
+.frame-child192,
+.frame-child193 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue-100);
+  width: 30px;
+  height: 158px;
+}
+.frame-child193 {
+  top: 53px;
+  left: 40px;
+  background-color: var(--color-orange-100);
+  height: 105px;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 76px;
+  left: 750px;
+  width: 70px;
+  height: 158px;
+}
+.frame-child194,
+.frame-child195 {
+  position: absolute;
+  top: 37px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue-100);
+  width: 30px;
+  height: 179px;
+}
+.frame-child195 {
+  top: 0;
+  left: 40px;
+  background-color: var(--color-orange-100);
+  height: 216px;
+}
+.rectangle-parent7 {
+  position: absolute;
+  top: 18px;
+  left: 900px;
+  width: 70px;
+  height: 216px;
+}
+.mon,
+.sat,
+.sun,
+.tue {
+  position: absolute;
+  top: 246px;
+  left: 24px;
+}
+.mon,
+.sun,
+.tue {
+  left: 172px;
+}
+.mon,
+.tue {
+  left: 321px;
+}
+.tue {
+  left: 473px;
+}
+.frame-parent14,
+.fri,
+.thu,
+.wed {
+  position: absolute;
+  top: 246px;
+  left: 772px;
+}
+.frame-parent14,
+.fri,
+.wed {
+  left: 927px;
+}
+.frame-parent14,
+.wed {
+  left: 620px;
+}
+.frame-parent14 {
+  top: 46px;
+  left: 86px;
+  width: 970px;
+  height: 263px;
+  text-align: center;
+  font-size: var(--text-sm-semibold-size);
+}
+.frame-child196 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-royalblue-200);
+  box-shadow: 0 0 15px rgba(17, 52, 133, 0.5) inset;
+  width: 15px;
+  height: 15px;
+}
+.debit4 {
+  position: absolute;
+  top: 0;
+  left: 25px;
+}
+.frame-child197,
+.rectangle-parent8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 66px;
+  height: 19px;
+}
+.frame-child197 {
+  top: 2px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-orange-100);
+  box-shadow: 0 0 15px rgba(172, 13, 108, 0.5) inset;
+  width: 15px;
+  height: 15px;
+}
+.frame-parent15,
+.rectangle-parent9 {
+  position: absolute;
+  top: 0;
+  left: 91px;
+  width: 72px;
+  height: 19px;
+}
+.frame-parent15 {
+  left: 893px;
+  width: 163px;
+}
+.debited-5420-credited-in-t-parent {
+  position: absolute;
+  top: 28px;
+  left: 30px;
+  width: 1056px;
+  height: 309px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 43px;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  width: 1110px;
+  height: 364px;
+  font-size: var(--font-size-base);
+}
+.div92,
+.div93,
+.div94 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.div93,
+.div94 {
+  top: 37px;
+  left: 1px;
+}
+.div94 {
+  top: 74px;
+}
+.div95,
+.div96,
+.div97,
+.parent2 {
+  position: absolute;
+  top: 111px;
+  left: 0;
+}
+.div96,
+.div97,
+.parent2 {
+  top: 148px;
+}
+.div97,
+.parent2 {
+  top: 185px;
+  left: 14px;
+}
+.parent2 {
+  top: 150px;
+  left: 32px;
+  width: 26px;
+  height: 201px;
+  text-align: right;
+  font-size: var(--font-size-smi);
+}
+.debit-credit-overview-parent {
+  position: absolute;
+  top: 577px;
+  left: 290px;
+  width: 1110px;
+  height: 407px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-steelblue-100);
+  font-family: var(--text-sm-semibold);
+}
